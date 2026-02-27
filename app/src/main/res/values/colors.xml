@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondo_oscuro">#0F0F0F</color>
+    <color name="fondo_dialogo">#1E1E1E</color>
+    <color name="fondo_estado">#1A1A1A</color>
+    <color name="fondo_log">#111111</color>
+    <color name="divisor">#2A2A2A</color>
+    <color name="texto_principal">#FFFFFF</color>
+    <color name="texto_secundario">#AAAAAA</color>
+    <color name="texto_log">#44FF88</color>
+    <color name="acento_verde">#00C853</color>
+    <color name="acento_azul">#2196F3</color>
+    <color name="advertencia_amarillo">#FFD54F</color>
+    <color name="negro">#000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
