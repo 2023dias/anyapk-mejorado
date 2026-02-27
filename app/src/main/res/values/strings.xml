@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnyAPK Mejorado</string>
+    <string name="subtitulo">Instalador avanzado sin verificación de Google</string>
+    <string name="seccion_adb">Configuración ADB</string>
+    <string name="seccion_apk">Archivo APK</string>
+    <string name="adb_no_configurado">⚠ ADB no configurado — Toca Configurar ADB para comenzar</string>
+    <string name="adb_configurado">✓ ADB configurado — Puerto: %1$s</string>
+    <string name="ninguno_apk">Ningún APK seleccionado</string>
+    <string name="apk_info">📦 %1$s\nTamaño: %2$s KB</string>
+    <string name="btn_configurar_adb">⚙ Configurar ADB</string>
+    <string name="btn_seleccionar_apk">📂 Seleccionar APK</string>
+    <string name="btn_instalar">INSTALAR APK</string>
+    <string name="advertencia_riesgo">⚠ ADVERTENCIA: Instalar APKs de fuentes desconocidas puede representar un riesgo. Procede solo si confías en el origen.</string>
+    <string name="dialogo_adb_titulo">Configurar Depuración Inalámbrica</string>
+    <string name="dialogo_adb_instrucciones">Pasos:\n\n1. Ajustes → Administración general → Opciones de desarrollador\n2. Activa Depuración inalámbrica\n3. Toca Emparejar dispositivo con código\n4. Ingresa el código y puerto que aparecen</string>
+    <string name="label_codigo_pairing">Código de emparejamiento (6 dígitos)</string>
+    <string name="label_puerto_pairing">Puerto de emparejamiento</string>
+    <string name="label_puerto_adb">Puerto ADB</string>
+    <string name="hint_codigo">Ej: 123456</string>
+    <string name="hint_puerto">Ej: 37295</string>
+    <string name="hint_puerto_adb">Ej: 38491</string>
+    <string name="btn_emparejar">Emparejar y Guardar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="emparejando">Emparejando con ADB…</string>
+    <string name="emparejamiento_ok">✓ Emparejamiento exitoso</string>
+    <string name="instalando">Instalando APK, espera…</string>
+    <string name="instalacion_ok">✓ APK instalado correctamente</string>
+    <string name="error_adb_no_configurado">Error: Configura ADB primero</string>
+    <string name="error_apk_no_seleccionado">Error: Selecciona un APK primero</string>
+    <string name="error_instalacion">Error al instalar: %1$s</string>
+    <string name="error_verificar_depuracion">Verifica que la Depuración Inalámbrica esté activa</string>
+    <string name="error_campos_vacios">Completa todos los campos</string>
+    <string name="reconectando">Reconectando ADB…</string>
+    <string name="pie_pagina">AnyAPK Mejorado — Solo para uso con tus propias aplicaciones</string>
+</resources>
