@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AnyAPKMejorado" parent="Theme.Material3.Dark">
+        <item name="colorPrimary">@color/acento_verde</item>
+        <item name="colorPrimaryVariant">@color/acento_verde</item>
+        <item name="colorOnPrimary">@color/negro</item>
+        <item name="colorSecondary">@color/acento_azul</item>
+        <item name="colorOnSecondary">@color/negro</item>
+        <item name="android:colorBackground">@color/fondo_oscuro</item>
+        <item name="android:windowBackground">@color/fondo_oscuro</item>
+        <item name="android:statusBarColor">@color/fondo_oscuro</item>
+        <item name="android:navigationBarColor">@color/fondo_oscuro</item>
+        <item name="android:forceDarkAllowed">true</item>
+        <item name="android:textColorPrimary">@color/texto_principal</item>
+        <item name="android:textColorSecondary">@color/texto_secundario</item>
+    </style>
+</resources>
